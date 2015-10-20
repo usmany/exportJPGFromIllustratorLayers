@@ -1,7 +1,7 @@
 # exportJPGFromIllustratorLayers
 Small javaScript that export all Layers of an Illustrator CS3 file as independent jpgs
 
-## lazyness as motivation
+## Lazyness as motivation
 This javaScript is tailored to a very specific Illustrator CS3 file but I think it could be usable for a variety of situations in which you need to produce several different files from one master file.
 I know, I know Illustrator CS3 can use variables but what the hell, I did this just for fun.
 
